@@ -1,5 +1,3 @@
-# vue-treasure
-
 A collection of useful Vue related Articles and Videos
 
 
@@ -33,6 +31,8 @@ A collection of useful Vue related Articles and Videos
 
 
 ## Vue Tips and Tricks
+
+**articles**
 
 [3 Anti-Patterns to avoid in Vue.js](https://www.binarcode.com/blog/3-anti-patterns-to-avoid-in-vuejs/)
 
