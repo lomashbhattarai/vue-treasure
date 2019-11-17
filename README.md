@@ -46,5 +46,6 @@ A collection of useful Vue related Articles and Videos
 [Vue Composition API](https://vue-composition-api-rfc.netlify.com/)
 
 [Vue.js 3: Future-Oriented Programming](https://blog.bitsrc.io/vue-js-3-future-oriented-programming-54dee797988b)
+
 **videos**
 
