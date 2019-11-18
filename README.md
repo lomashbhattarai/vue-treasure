@@ -3,6 +3,7 @@ A collection of useful Vue related Articles and Videos
 [Official Docs](https://vuejs.org/v2/guide/)
 
 ## Vue (fundamental)
+[Awesome Vue.js ](https://github.com/vuejs/awesome-vue)
 
 **articles**
 
