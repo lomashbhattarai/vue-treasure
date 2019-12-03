@@ -53,5 +53,6 @@ A collection of useful Vue related Articles and Videos
 **videos**
 
 **podcasts**
+
 [Evan You - What's Coming in Vue.js 3.0](http://www.fullstackradio.com/129)
 
