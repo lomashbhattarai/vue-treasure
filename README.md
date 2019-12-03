@@ -30,6 +30,8 @@ A collection of useful Vue related Articles and Videos
 
 [The lesser known amazing things VueRouter can do](https://dev.to/napoleon039/the-lesser-known-amazing-things-vuerouter-can-do-25di)
 
+[Why all my Vuex stores have just one action and mutation and why yours should too](https://medium.com/js-dojo/why-all-my-vuex-stores-have-just-one-action-and-mutation-and-why-yours-should-too-80898e8c0646)
+
 
 
 ## Vue Tips and Tricks
@@ -49,4 +51,7 @@ A collection of useful Vue related Articles and Videos
 [Vue.js 3: Future-Oriented Programming](https://blog.bitsrc.io/vue-js-3-future-oriented-programming-54dee797988b)
 
 **videos**
+
+**podcasts**
+[Evan You - What's Coming in Vue.js 3.0](http://www.fullstackradio.com/129)
 
